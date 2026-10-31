@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pastesheet-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pastesheet.com/
+PasteSheet provides a service that turns Google Sheets into a live, cached JSON API. Users can expose public or private spreadsheets via a simple endpoint, with built-in pagination, filtering, and rate‑limit controls. The platform also offers an MCP (Machine‑Control‑Protocol) for AI agents to interact with sheet data directly, supporting use cases in web apps, no‑code tools, and AI agents. It includes free tier access, paid plans for higher limits, and comprehensive documentation for developers.
+
+**Areas:** Company · API · GoogleSheets · NoCode · AI
+
+## pastesheet-com on APIs.io
+
+Everything profiled for pastesheet-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pastesheet-com/](https://apis.io/providers/pastesheet-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [PasteSheet API](https://apis.io/apis/pastesheet-com/pastesheet-api/) — PasteSheet provides a REST API that turns Google Sheets into live JSON endpoints, with pagination, filtering, and rate‑limit controls.
+- [pastesheet-com API](https://apis.io/apis/pastesheet-com/pastesheet-com-api/) — pastesheet-com API as documented publicly: 17 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [pastesheet-com API Rules](https://apis.io/rules/pastesheet-com/pastesheet-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pastesheet Com Authentication](https://apis.io/security/pastesheet-com/pastesheet-com-authentication/)
+- [Pastesheet Com Domain Security](https://apis.io/security/pastesheet-com/pastesheet-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Pastesheet Com Scopes](https://apis.io/scopes/pastesheet-com/pastesheet-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pastesheet Com Plans Pricing](https://apis.io/plans/pastesheet-com/pastesheet-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Pastesheet Com Rate Limits](https://apis.io/rate-limits/pastesheet-com/pastesheet-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pastesheet.com/)
+- [Documentation](https://pastesheet.com/guides)
+- [Pricing](https://pastesheet.com/pricing)
+- [Terms of service](https://pastesheet.com/terms)
+- [Privacy policy](https://pastesheet.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 49.2** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.4 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 36.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pastesheet-com/](https://apis.io/providers/pastesheet-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for pastesheet-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pastesheet-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
